@@ -1,7 +1,3 @@
-# Following are the popular Big Data Developer Certifications
+print("Hello,World!")
 
-CCA 175 Spark and Hadoop Developer 
-HDPCD:Spark 
-CCA 159 Data Analyst (Hive and Sqoop)
-Oreilly/Databricks Certified Developer
-MapR Certified Spark Developer
+
